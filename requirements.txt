@@ -25,7 +25,7 @@ fastjsonschema==2.16.1
 fonttools==4.29.0
 idna==3.2
 importlib-metadata==4.12.0
-ipykernel==6.15.1
+ipykernel==5.4.3
 ipython==7.20.0
 ipython-genutils==0.2.0
 isort==5.9.3
